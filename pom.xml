@@ -23,7 +23,8 @@
       <artifactId>mysql-connector-java</artifactId>
       <version>8.0.32</version>
     </dependency>
-    <dependency>
+
+   <!-- <dependency>
       <groupId>javax.servlet</groupId>
       <artifactId>javax.servlet-api</artifactId>
       <version>3.0.1</version>
@@ -40,8 +41,9 @@
       <artifactId>jstl</artifactId>
       <version>1.2</version>
       <scope>runtime</scope>
-    </dependency>
+    </dependency>-->
   </dependencies>
   <build>
+
   </build>
 </project>
